@@ -10,7 +10,7 @@
 
 ------------------------------------------------------------------------
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **Cybersecurity graduate (M.Sc. Cybersecurity)** with a background in Forensic Science and practical experience across **Vulnerability Assessment and Penetration Testing (VAPT), Web/API/Android Security Testing, Governance, Risk & Compliance (GRC), and SOC-aligned security operations**.
 
@@ -18,13 +18,13 @@ I have worked on identifying and reporting vulnerabilities such as SQL Injection
 
 I bring a forensic-science perspective to cybersecurity, with an understanding of evidence handling and chain of custody. I am currently gaining professional Information Security experience as a Cybersecurity Trainee at Robosoft Technologies.
 
--   🔐 Interested in **VAPT, SOC, GRC, Digital Forensics, and Cybersecurity Analysis**
--   🌐 Exploring **Web, API, and Android application security**
--   🛡️ Learning endpoint security, firewall operations, and security monitoring
--   📚 Focused on continuous learning through practical assessments and security labs
--   🤝 Open to connecting with cybersecurity professionals and learning opportunities
+-    Interested in **VAPT, SOC, GRC, Digital Forensics, and Cybersecurity Analysis**
+-    Exploring **Web, API, and Android application security**
+-    Learning endpoint security, firewall operations, and security monitoring
+-    Focused on continuous learning through practical assessments and security labs
+-    Open to connecting with cybersecurity professionals and learning opportunities
 
-## 🛡️ Cybersecurity Skills
+##  Cybersecurity Skills
 
   -----------------------------------------------------------------------
   Area                                Skills
@@ -54,7 +54,7 @@ I bring a forensic-science perspective to cybersecurity, with an understanding o
                                       Git and GitHub
   -----------------------------------------------------------------------
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 ### Security Testing & Assessment
 
@@ -88,7 +88,7 @@ I bring a forensic-science perspective to cybersecurity, with an understanding o
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-## 🚀 Projects
+##  Projects
 
 ### 1. API Security Testing & Reverse Engineering
 
@@ -114,7 +114,7 @@ I bring a forensic-science perspective to cybersecurity, with an understanding o
 -   Monitored and analysed ARP and ICMP traffic using Wireshark.
 -   Identified suspicious traffic patterns supporting incident-detection activities.
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Cybersecurity Trainee (Apprenticeship) — Information Security | Robosoft Technologies
 
@@ -143,14 +143,14 @@ I bring a forensic-science perspective to cybersecurity, with an understanding o
 -   Practised Kali Linux, Burp Suite, and OWASP Top 10 testing methodologies through practical tasks and security labs.
 -   Received a Letter of Recommendation for performance and technical aptitude.
 
-## 🎓 Education
+##  Education
 
 -   **M.Sc. Cybersecurity** — Mangalore University, Mangaluru  
     2024 – 2026 · CGPA: **9.07**
 -   **B.Sc. Forensic Science (Honours)** — Yenepoya University, Mangaluru  
     2021 – 2024 · CGPA: **8.9**
 
-## 📜 Certifications & Learning
+##  Certifications & Learning
 
 -   API Penetration Testing — APIsec University
 -   ISO/IEC 27001 (Fundamentals) — Mastermind
@@ -162,20 +162,9 @@ I bring a forensic-science perspective to cybersecurity, with an understanding o
 
 **Hands-on learning:** PortSwigger Web Security Academy, Hack The Box, and TryHackMe — practical labs covering web application security, exploitation, and defensive techniques.
 
-## 📊 GitHub Overview
 
-::: {align="center"}
-![Ashwith's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=ashwithbangera&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwithbangera&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub
-Streak](https://streak-stats.demolab.com?user=ashwithbangera&theme=tokyonight&hide_border=true)
-:::
-
-## 🤝 Connect With Me
+##  Connect With Me
 
 -   **LinkedIn:**
     [linkedin.com/in/ashwith-bangera-761b68259](https://www.linkedin.com/in/ashwith-bangera-761b68259/)
