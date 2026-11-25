@@ -1,5 +1,5 @@
 ::: {align="center"}
-# Hey there, I'm Ashwith Bangera 👋
+# Hey there, I'm Ashwith.
 
 ### Cybersecurity Professional \| VAPT • SOC • GRC \| Web, API & Mobile Security
 
