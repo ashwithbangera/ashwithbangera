@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hey there, I'm Ashwith.
 
 ### Cybersecurity Professional \| VAPT • SOC • GRC \| Web, API & Mobile Security
@@ -185,7 +185,7 @@ Streak](https://streak-stats.demolab.com?user=ashwithbangera&theme=tokyonight&hi
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 *"Security is not a product, but a continuous process."*
 
 Thanks for visiting my profile. Feel free to explore my repositories
