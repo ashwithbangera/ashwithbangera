@@ -179,4 +179,3 @@ I bring a forensic-science perspective to cybersecurity, with an understanding o
 
 Thanks for visiting my profile. Feel free to explore my repositories
 and connect!
-:::
